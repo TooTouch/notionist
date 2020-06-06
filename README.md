@@ -1,7 +1,7 @@
 # Notionist
 > *Life is divided into before and after meeting Notion*
 
-This is Notion collection extraction repository for people who use Notion. 
+This is unofficial Notion Collection Extraction repository for people who use Notion. 
 
 I saw `notion-py`, unofficial python API for Notion.so made by `jamalex`, and appreciated `jamalex`. Thanks to `notion-py`, I'm using Notion better. However, there is no table extraction function. I want to use my table contents in python without extracting zip file. Therefore, I make this repository. At first, this repo was for me, but now I want to share this repo with notion users. 
 

@@ -36,10 +36,10 @@ When you make a table in notion, you can copy your table link as follows (If you
 ## 3. Using CollectionExtract
 
 ```python
-from notionist import CollectionExtract
+from notionist import collection_api
 
 token_v2 = 'YOUR token_v2'
-extraction = CollectionExtract(token_v2=token_v2)
+extraction = collection_api.CollectionExtract(token_v2=token_v2)
 
 url = 'https://www.notion.so/tootouch/ae60f9946dc54de78fbd4850ccf48b40?v=9d07e70306b2498eb82805b83f882140'
 extraction.table_extract(url)

@@ -19,7 +19,7 @@ pip install notionist
 
 ## 1. Get token_v2
 
-First of all, you need `token_v2` to use this module. You can find you token_v2 in your cookies after enterting your id and passward to Notion as follows. 
+First of all, you need `token_v2` to use this module. You can find your token_v2 in cookies after enterting your id and passward to Notion as follows. 
 
 `F12 (User Defined Key) > Application > Cookies > https://www.notion.so > token_v2`
 

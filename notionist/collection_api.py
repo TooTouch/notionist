@@ -2,6 +2,8 @@ from notion.client import NotionClient
 import numpy as np
 import pandas as pd
 
+__all__ = ['CollectionExtract']
+
 class CollectionExtract:
     def __init__(self, token_v2):
         r"""

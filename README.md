@@ -1,9 +1,9 @@
 # Notionist
 > *Life is divided into before and after meeting Notion*
 
-This is unofficial Notion Collection Extraction repository for people who use Notion. 
+This is Notion collection extraction repository for people who use Notion. 
 
-I saw `notion-py`, unofficial python API for Notion.so made by `jamalex`, and appreciated `jamalex`. Thanks to `notion-py`, I'm using Notion better. However, there is no table extraction function. I want to use my table contents in python without extracting zip file. Therefore, I make this repository. At first, this repo was for me, but now I want to share this repo with notion users. 
+I saw `notion-py`, unofficial python API for Notion.so made by `jamalex`, and appreciated `jamalex`. Thanks to `notion-py`, I'm using Notion better. However, there is no table extraction function. I want to use my table contents in python without extracting zip file. Therefore, I made this repository. At first, this repo was for me, but now I want to share this repo for notion users. 
 
 Please contact me if you want to join this repo.
 
@@ -19,7 +19,7 @@ pip install notionist
 
 ## 1. Get token_v2
 
-First of all, you need `token_v2` to use this module. You can find your token_v2 in cookies after enterting your id and passward to Notion as follows. 
+First of all, you need `token_v2` to use this module. You can find you token_v2 in your cookies after enterting your id and passward to Notion as follows. 
 
 `F12 (User Defined Key) > Application > Cookies > https://www.notion.so > token_v2`
 

@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name                = 'notionist',
-    version             = '0.1', 
+    version             = '0.2', 
     long_description    = long_description, 
     long_description_content_type = 'text/markdown', 
     description         = 'Life is divided into before and after meeting Notion', 
